@@ -1,7 +1,7 @@
 
 # #07 - JS: A Linguagem
 
-### Nome aluno(a)
+### Sara de Jesus Oliveira
 
 [comment]: <> (Sara de Jesus Oliveira)
 
