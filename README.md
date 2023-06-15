@@ -10,3 +10,8 @@
 
 ### Vídeo 02 - Tratamento de dados
 [comment]: <> (Achei interessante a variedade de maneiras que se pode usar as variáveis e dependendo do conteúdo ela pode ter funções diferentes)
+
+### Vídeo 03 - Operadores (parte 1)
+[comment]: <> ( Funcionalidade dos operadores aritméticos dentro do javascript e suas procedências)
+
+
