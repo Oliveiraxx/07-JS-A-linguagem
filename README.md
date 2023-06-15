@@ -14,4 +14,6 @@
 ### Vídeo 03 - Operadores (parte 1)
 [comment]: <> ( Funcionalidade dos operadores aritméticos dentro do javascript e suas procedências)
 
+### Vídeo 04 - Operadores (parte 2)
+[comment]: <> (Na aula 08, dando continuidade a aula 07, é ensinado as funcionalidade dos operadores dentro do javascript)
 
